@@ -15,7 +15,7 @@ jobs:
         run: yarn
 
       - name: Generate Demo
-        run: yarn deploy
+        run: yarn generate
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.5
