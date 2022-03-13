@@ -1,5 +1,5 @@
 # Typescript Library Starter
-> Javascript library starter powered by typescript, unbuild and vite
+> JavaScript library starter powered by typescript, unbuild and vite
 
 ## Pre-packed
 
